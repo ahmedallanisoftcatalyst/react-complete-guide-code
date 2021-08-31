@@ -24,3 +24,6 @@
 .new-expense__actions {
   text-align: right;
 }
+.new-expense__open {
+  text-align: center;
+}
